@@ -1,0 +1,4 @@
+interface:
+  display_name: "JoJoMath 设计规范"
+  short_description: "生成和审核符合 JoJoMath 产品气质的 UI 与宣传视觉。"
+  default_prompt: "使用 jojomath-design 设计一个符合 JoJoMath 规范的学生做题页。"
